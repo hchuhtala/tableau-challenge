@@ -8,7 +8,7 @@ New York City imposed a strict lockdown in March 2020 in response to the COVID-1
 o	Number of rides spiked between March 8th and 10th, then dipped below 2019 levels. <br>
 o	Day of the week could confound the year to year comparison <br>
 	Would expect 27% of trips on weekends, if evenly distributed <br>
-	Looking week by week controls for better than a month-long summary <br>
+	Looking week by week controls for this better than a month-long summary <br>
 o	There is a peak at 8 am and again 5-6 pm for rush hour with 2020 numbers being on average lower than 2019 <br>
 	Looking at each week, the morning rush hour peak disappears as 2020 progresses<br>
 •	Hypothesis: COVID-19 changed the location of the most used bike stations throughout the day. <br>
