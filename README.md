@@ -44,8 +44,9 @@ https://www.nbcnewyork.com/news/local/nyc-issues-new-commuter-guidelines-to-comb
  * Subway and buses only saw decreased ridership, while Citi bikes saw an increase from March 8th to 12th and again the 13th to 15th.
  * During this period Citi bike could have been used as a substitute for subway or bus but during other periods there is no evidence of this.
  
- * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+ 
+ Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 
