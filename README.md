@@ -33,8 +33,8 @@ https://www.nbcnewyork.com/news/local/nyc-issues-new-commuter-guidelines-to-comb
 
 # Analysis
 * Hypothesis: Citi Bike usage in March 2020 would be less than March 2019.
- * Number of rides spiked between March 8th and 10th, then dipped below 2019 levels.
- * Day of the week could confound the year to year comparison 
+  * Number of rides spiked between March 8th and 10th, then dipped below 2019 levels.
+  * Day of the week could confound the year to year comparison 
 * Hypothesis: COVID-19 changed the location of the most used bike stations throughout the day.
  * There are many housing units in all areas with Citi bike stations.
  * There are more stations with 200 or more rides/ hour during rush hours
