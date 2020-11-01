@@ -1,4 +1,4 @@
-#[Tableau Public Workbook](https://public.tableau.com/profile/hchuhtala#!/vizhome/FinalCitiBikeMarch2019vs2020Analysis1/Story?publish=yes)
+#[**Tableau Public Workbook**](https://public.tableau.com/profile/hchuhtala#!/vizhome/FinalCitiBikeMarch2019vs2020Analysis1/Story?publish=yes)
 
 Analysis of COVID-19 effects on NYC Citi Bikes in March 2020
 
