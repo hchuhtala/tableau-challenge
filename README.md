@@ -1,7 +1,8 @@
-#[**Tableau Public Workbook**](https://public.tableau.com/profile/hchuhtala#!/vizhome/FinalCitiBikeMarch2019vs2020Analysis1/Story?publish=yes)
+# [**Tableau Public Workbook**](https://public.tableau.com/profile/hchuhtala#!/vizhome/FinalCitiBikeMarch2019vs2020Analysis1/Story?publish=yes)
 
 Analysis of COVID-19 effects on NYC Citi Bikes in March 2020
 
+![Tableau Example Screenshot](https://github.com/hchuhtala/tableau-challenge/blob/master/map_screenshot.png)
 
 # Background
 <p>New York City imposed a strict lockdown in March 2020 in response to the COVID-19 outbreak there. People were asked to stay in their home unless they were an essential worker or had an essential trip. Another piece of it, released March 8th, included guidelines to commuters to bike or walk when possible and avoid packed subway cars possibly by taking the bus instead. The publicly available data from CitiBike NYC and Metro Transit Authority from March 2019 and March 2020 were compared, and any resulting differences were attributed to COVID-19. Analysis was done to determine if Citi Bike usage and trip locations were affected and if Citi Bike acted as a substitute for subway and bus rides.</p>
