@@ -23,7 +23,7 @@ Analysis of COVID-19 effects on NYC Citi Bikes in March 2020
   * There are many housing units in all areas with Citi bike stations.
   * There are more stations with 200 or more rides/ hour during rush hours
   * There are more high use stations in 2019 than 2020<br>
-  * The general trend of high use stations being in Manhattan is consistent over the yearsFit ML models from scikit-learn 
+  * The general trend of high use stations being in Manhattan is consistent over the years 
 * Hypothesis: To avoid enclosed public transportation, people chose to Citi bike instead.
   * Subway has the most riders followed by buses. Citi bikes are at very most 6% of the total rides
   * Subway and buses only saw decreased ridership, while Citi bikes saw an increase from March 8th to 12th and again the 13th to 15th.
